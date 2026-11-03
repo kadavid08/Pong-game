@@ -1,0 +1,7 @@
+C:\Users\kovacsdavid\Downloads\Pong_Windows_Forms\Pong\Pong\bin\Debug\Pong.exe.config
+C:\Users\kovacsdavid\Downloads\Pong_Windows_Forms\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\kovacsdavid\Downloads\Pong_Windows_Forms\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\kovacsdavid\Downloads\Pong_Windows_Forms\Pong\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+C:\Users\kovacsdavid\Downloads\Pong_Windows_Forms\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\kovacsdavid\Downloads\Pong_Windows_Forms\Pong\Pong\obj\Debug\Pong.exe
+C:\Users\kovacsdavid\Downloads\Pong_Windows_Forms\Pong\Pong\obj\Debug\Pong.pdb
